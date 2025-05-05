@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwindcss";
+
+body {
+  background-color: #e5e7eb;
+}
+
+h1 {
+  font-family: Outfit, sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Outfit, sans-serif;
+  font-weight: Semi Bold;
+}
+
+button {
+  background-color: #347F89;
+}
